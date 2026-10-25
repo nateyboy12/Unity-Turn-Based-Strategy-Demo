@@ -17,7 +17,8 @@
 # Unity source files
 *.cginc                 text
 *.compute               text linguist-language=hlsl
-*.cs                    text diff=csharp
+# Don't normalize EOL on compare (repo blobs are CRLF; `text` alone made every save look modified).
+*.cs                    -text diff=csharp
 *.hlsl                  text linguist-language=hlsl
 *.raytrace              text linguist-language=hlsl
 *.shader                text
