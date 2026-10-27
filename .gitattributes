@@ -170,3 +170,6 @@ Packages/packages-lock.json linguist-generated
 
 # Exceptions for .asset files such as lightning pre-baking
 LightingData.asset     binary
+
+# GitHub Pages must publish real file bytes, not LFS pointers
+docs/**                 -filter -diff -merge

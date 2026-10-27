@@ -5,9 +5,9 @@ A grid-based, turn-driven tactics prototype built in Unity. The player commands 
 **Author:** Nate Courchesne  
 **Contact:** natecourchesne@gmail.com · [LinkedIn](https://www.linkedin.com/in/natecourchesne/) 
 
-[![Gameplay Demo](Recordings/demo/thumbnail.jpg)](https://github.com/nateyboy12/Unity-Turn-Based-Strategy-Demo/blob/main/Recordings/demo/demo.mp4)
+[![Gameplay Demo](Recordings/demo/thumbnail.jpg)](https://nateyboy12.github.io/Unity-Turn-Based-Strategy-Demo/)
 
-**[Watch gameplay demo](https://github.com/nateyboy12/Unity-Turn-Based-Strategy-Demo/blob/main/Recordings/demo/demo.mp4)**
+**[Watch gameplay demo](https://nateyboy12.github.io/Unity-Turn-Based-Strategy-Demo/)**
 
 ---
 
